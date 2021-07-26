@@ -95,7 +95,7 @@ const GlobalStyle = createGlobalStyle`
         justify-content: space-between;
         left: 0;
         margin-top: 72px;
-        position: absolute;
+        position: relative;
         right: 0;
         padding: 24px 64px;
     }
